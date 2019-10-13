@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAkari", "ConsoleAkari\ConsoleAkari.csproj", "{31FE34B3-692D-4BE5-A467-1AD71683E154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeikaCenterClient", "SeikaCenterClient\SeikaCenterClient.csproj", "{8F753D26-77D6-4686-B9DC-BBCB95F5A80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FE34B3-692D-4BE5-A467-1AD71683E154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FE34B3-692D-4BE5-A467-1AD71683E154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FE34B3-692D-4BE5-A467-1AD71683E154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FE34B3-692D-4BE5-A467-1AD71683E154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F753D26-77D6-4686-B9DC-BBCB95F5A80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F753D26-77D6-4686-B9DC-BBCB95F5A80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F753D26-77D6-4686-B9DC-BBCB95F5A80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F753D26-77D6-4686-B9DC-BBCB95F5A80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD06C8E-2198-4B45-9319-0E05F99F2EB1}
+	EndGlobalSection
+EndGlobal
